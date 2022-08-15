@@ -22,6 +22,8 @@ Analysis Report: [Report 1 PDF](https://github.com/sowmya-sree-b/Data-Visualizat
 
 #### Course Work 2
 
+This Course Work Focuses Using analytial skills and using ParaView Application to develope Visualization in 3-Dimension.
+
 Tasks: [Course Work 2 Tasks and Information](https://github.com/sowmya-sree-b/Data-Visualization---Swansea-Universsity/blob/main/coursework_2_Tasks.pdf)
 
 Analysis Report: [Report 2 PDF](https://github.com/sowmya-sree-b/Data-Visualization---Swansea-Universsity/blob/main/coursework_2_Tasks.pdf)
