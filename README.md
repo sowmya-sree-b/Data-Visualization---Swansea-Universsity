@@ -30,6 +30,8 @@ Analysis Report: [Report 2 PDF](https://github.com/sowmya-sree-b/Data-Visualizat
 
 Hope this repo will help you to assess my coding and other interpersonal skills.
 
+------------------------------------------------------------------------------------------------
+
 Feel Free to contact me via ssree92@yahoo.com .
 
 Follow me on social media 
