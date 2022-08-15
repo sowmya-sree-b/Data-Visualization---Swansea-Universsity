@@ -14,6 +14,10 @@ This Repository is related to the Coursework I have done as part of Data Visuali
 
 Hope this repo will help you to assess my coding and other interpersonal skills.
 
-Feel Free to contact me via ssree92@yahoo.com
+Feel Free to contact me via ssree92@yahoo.com .
+
 Follow me on social media 
+
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/SowmyaSreeB.svg?style=social&label=Follow%20%40SowmyaSreeB)](https://twitter.com/SowmyaSreeB)
+
+
